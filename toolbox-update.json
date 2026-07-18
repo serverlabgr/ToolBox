@@ -1,5 +1,5 @@
 {
-  "version": "0.7.1",
-  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.1/ToolBox-Setup-0.7.1.exe",
-  "notes": "Installer με welcome, επιλογή φακέλου και εκκίνηση με Windows"
+  "version": "0.7.2",
+  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.2/ToolBox-Setup-0.7.2.exe",
+  "notes": "Version badge, νέο icon, διόρθωση μαύρου background"
 }
