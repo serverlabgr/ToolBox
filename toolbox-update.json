@@ -1,5 +1,5 @@
 {
-  "version": "0.7.0",
-  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.0/ToolBox-Setup-0.7.0.exe",
-  "notes": "Αρχική έκδοση ToolBox για Windows"
+  "version": "0.7.1",
+  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.1/ToolBox-Setup-0.7.1.exe",
+  "notes": "Installer με welcome, επιλογή φακέλου και εκκίνηση με Windows"
 }
