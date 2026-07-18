@@ -1,8 +1,5 @@
 {
-  "version": "0.6.2",
-  "downloadUrl": "https://your-server.com/ToolBox-Setup-0.6.2.exe",
-  "notes": "Βελτιώσεις απόδοσης και νέος installer"
-  "version": "0.7.1",
-  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.1/ToolBox-Setup-0.7.1.exe",
-  "notes": "Σύντομη περιγραφή τι άλλαξε"
+  "version": "0.7.0",
+  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.0/ToolBox-Setup-0.7.0.exe",
+  "notes": "Αρχική έκδοση ToolBox για Windows"
 }
