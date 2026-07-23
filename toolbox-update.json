@@ -1,5 +1,5 @@
 {
-  "version": "0.7.3",
-  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.3/ToolBox-Setup-0.7.3.exe",
-  "notes": "In-app update: λήψη και εγκατάσταση μέσα από το ToolBox"
+  "version": "0.7.5",
+  "downloadUrl": "https://github.com/serverlabgr/ToolBox/releases/download/v0.7.5/ToolBox-Setup-0.7.5.exe",
+  "notes": "Zero-lag desktop: toolbox:// protocol, faster nav, window state, shortcuts"
 }
